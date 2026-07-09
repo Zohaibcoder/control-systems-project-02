@@ -158,6 +158,18 @@ Aerospace Engineering Student
 
 ---
 
+
 ## License
 
 This project is released under the MIT License.
+
+---
+
+## Project Cover
+
+![Cover Page](Figures/Cover Page.png)
+
+
+---
+
+
